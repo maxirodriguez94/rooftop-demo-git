@@ -22,7 +22,7 @@ var ejemplo = false
 
 
 
-###Manejo de directorios y archivos
+##Manejo de directorios y archivos
 
 Para ingresar a una carpeta:
 
